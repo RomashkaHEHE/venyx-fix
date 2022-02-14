@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("deno broke the last library with this print >:C")
+
 return library
